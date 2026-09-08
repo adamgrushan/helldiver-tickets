@@ -1,0 +1,482 @@
+[
+ {
+  "source": "ticketmaster",
+  "sourceListingId": "fx-ticketmaster-001",
+  "section": "100A",
+  "row": "B",
+  "seats": [
+   "8",
+   "9"
+  ],
+  "allInPricePerTicket": 3480,
+  "listingUrl": "https://www.ticketmaster.com/womens-singles-semifinals-flushing-new-york-09-10-2026/event/1D00646DB471672F",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-001",
+  "section": "100C",
+  "row": "A",
+  "seats": null,
+  "allInPricePerTicket": 2965.5,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "stubhub",
+  "sourceListingId": "fx-stubhub-001",
+  "section": "100E",
+  "row": "A",
+  "seats": [
+   "3",
+   "4"
+  ],
+  "allInPricePerTicket": 2740.25,
+  "listingUrl": "https://www.stubhub.com/us-open-tennis-flushing-tickets-9-10-2026/event/159351469/?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "seatgeek",
+  "sourceListingId": "fx-seatgeek-001",
+  "section": "101",
+  "row": "C",
+  "seats": null,
+  "allInPricePerTicket": 2210,
+  "listingUrl": "https://seatgeek.com/us-open-tennis-tickets/tennis/2026-09-10-7-pm/17807645?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketmaster",
+  "sourceListingId": "fx-ticketmaster-002",
+  "section": "104",
+  "row": "Q",
+  "seats": [
+   "2",
+   "3"
+  ],
+  "allInPricePerTicket": 1985.4,
+  "listingUrl": "https://www.ticketmaster.com/womens-singles-semifinals-flushing-new-york-09-10-2026/event/1D00646DB471672F",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketmaster",
+  "sourceListingId": "fx-ticketmaster-003",
+  "section": "110",
+  "row": "N",
+  "seats": [
+   "3",
+   "4"
+  ],
+  "allInPricePerTicket": 1409,
+  "listingUrl": "https://www.ticketmaster.com/womens-singles-semifinals-flushing-new-york-09-10-2026/event/1D00646DB471672F",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketmaster",
+  "sourceListingId": "fx-ticketmaster-004",
+  "section": "116",
+  "row": "C",
+  "seats": [
+   "5",
+   "6"
+  ],
+  "allInPricePerTicket": 1409,
+  "listingUrl": "https://www.ticketmaster.com/womens-singles-semifinals-flushing-new-york-09-10-2026/event/1D00646DB471672F",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "stubhub",
+  "sourceListingId": "fx-stubhub-002",
+  "section": "122",
+  "row": "D",
+  "seats": null,
+  "allInPricePerTicket": 1352.75,
+  "listingUrl": "https://www.stubhub.com/us-open-tennis-flushing-tickets-9-10-2026/event/159351469/?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-002",
+  "section": "108",
+  "row": "J",
+  "seats": null,
+  "allInPricePerTicket": 1290,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "seatgeek",
+  "sourceListingId": "fx-seatgeek-002",
+  "section": "113",
+  "row": "B",
+  "seats": [
+   "11",
+   "12"
+  ],
+  "allInPricePerTicket": 1178.6,
+  "listingUrl": "https://seatgeek.com/us-open-tennis-tickets/tennis/2026-09-10-7-pm/17807645?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketliquidator",
+  "sourceListingId": "fx-ticketliquidator-001",
+  "section": "119",
+  "row": "J",
+  "seats": null,
+  "allInPricePerTicket": 1104,
+  "listingUrl": "https://www.ticketliquidator.com/tickets/7396871/2026-us-open-tennis-championships-session-23-tickets-thu-sep-10-2026-arthur-ashe-stadium",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-003",
+  "section": "124",
+  "row": "H",
+  "seats": [
+   "2",
+   "3"
+  ],
+  "allInPricePerTicket": 1050.5,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "stubhub",
+  "sourceListingId": "fx-stubhub-003",
+  "section": "203",
+  "row": "A",
+  "seats": null,
+  "allInPricePerTicket": 928,
+  "listingUrl": "https://www.stubhub.com/us-open-tennis-flushing-tickets-9-10-2026/event/159351469/?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "seatgeek",
+  "sourceListingId": "fx-seatgeek-003",
+  "section": "209",
+  "row": "E",
+  "seats": [
+   "1",
+   "2"
+  ],
+  "allInPricePerTicket": 874.25,
+  "listingUrl": "https://seatgeek.com/us-open-tennis-tickets/tennis/2026-09-10-7-pm/17807645?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketmaster",
+  "sourceListingId": "fx-ticketmaster-005",
+  "section": "215",
+  "row": "D",
+  "seats": [
+   "10",
+   "11"
+  ],
+  "allInPricePerTicket": 812,
+  "listingUrl": "https://www.ticketmaster.com/womens-singles-semifinals-flushing-new-york-09-10-2026/event/1D00646DB471672F",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-004",
+  "section": "221",
+  "row": "C",
+  "seats": null,
+  "allInPricePerTicket": 780.9,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketliquidator",
+  "sourceListingId": "fx-ticketliquidator-002",
+  "section": "227",
+  "row": "E",
+  "seats": null,
+  "allInPricePerTicket": 731.5,
+  "listingUrl": "https://www.ticketliquidator.com/tickets/7396871/2026-us-open-tennis-championships-session-23-tickets-thu-sep-10-2026-arthur-ashe-stadium",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "stubhub",
+  "sourceListingId": "fx-stubhub-004",
+  "section": "206",
+  "row": "B",
+  "seats": [
+   "15",
+   "16"
+  ],
+  "allInPricePerTicket": 698,
+  "listingUrl": "https://www.stubhub.com/us-open-tennis-flushing-tickets-9-10-2026/event/159351469/?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "seatgeek",
+  "sourceListingId": "fx-seatgeek-004",
+  "section": "212",
+  "row": "C",
+  "seats": null,
+  "allInPricePerTicket": 655.75,
+  "listingUrl": "https://seatgeek.com/us-open-tennis-tickets/tennis/2026-09-10-7-pm/17807645?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketmaster",
+  "sourceListingId": "fx-ticketmaster-006",
+  "section": "218",
+  "row": "D",
+  "seats": [
+   "6",
+   "7"
+  ],
+  "allInPricePerTicket": 623,
+  "listingUrl": "https://www.ticketmaster.com/womens-singles-semifinals-flushing-new-york-09-10-2026/event/1D00646DB471672F",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-005",
+  "section": "224",
+  "row": "A",
+  "seats": null,
+  "allInPricePerTicket": 594.4,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketliquidator",
+  "sourceListingId": "fx-ticketliquidator-003",
+  "section": "230",
+  "row": "C",
+  "seats": null,
+  "allInPricePerTicket": 561,
+  "listingUrl": "https://www.ticketliquidator.com/tickets/7396871/2026-us-open-tennis-championships-session-23-tickets-thu-sep-10-2026-arthur-ashe-stadium",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "stubhub",
+  "sourceListingId": "fx-stubhub-005",
+  "section": "201",
+  "row": "B",
+  "seats": [
+   "14",
+   "15"
+  ],
+  "allInPricePerTicket": 534.8,
+  "listingUrl": "https://www.stubhub.com/us-open-tennis-flushing-tickets-9-10-2026/event/159351469/?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "seatgeek",
+  "sourceListingId": "fx-seatgeek-005",
+  "section": "232",
+  "row": "B",
+  "seats": [
+   "5",
+   "6"
+  ],
+  "allInPricePerTicket": 508.25,
+  "listingUrl": "https://seatgeek.com/us-open-tennis-tickets/tennis/2026-09-10-7-pm/17807645?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketmaster",
+  "sourceListingId": "fx-ticketmaster-007",
+  "section": "305",
+  "row": "K",
+  "seats": [
+   "12",
+   "13"
+  ],
+  "allInPricePerTicket": 470,
+  "listingUrl": "https://www.ticketmaster.com/womens-singles-semifinals-flushing-new-york-09-10-2026/event/1D00646DB471672F",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-006",
+  "section": "311",
+  "row": "J",
+  "seats": null,
+  "allInPricePerTicket": 441.6,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "stubhub",
+  "sourceListingId": "fx-stubhub-006",
+  "section": "317",
+  "row": "P",
+  "seats": [
+   "6",
+   "7"
+  ],
+  "allInPricePerTicket": 415,
+  "listingUrl": "https://www.stubhub.com/us-open-tennis-flushing-tickets-9-10-2026/event/159351469/?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "seatgeek",
+  "sourceListingId": "fx-seatgeek-006",
+  "section": "323",
+  "row": "O",
+  "seats": [
+   "1",
+   "2"
+  ],
+  "allInPricePerTicket": 391.25,
+  "listingUrl": "https://seatgeek.com/us-open-tennis-tickets/tennis/2026-09-10-7-pm/17807645?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketliquidator",
+  "sourceListingId": "fx-ticketliquidator-004",
+  "section": "329",
+  "row": "S",
+  "seats": null,
+  "allInPricePerTicket": 368,
+  "listingUrl": "https://www.ticketliquidator.com/tickets/7396871/2026-us-open-tennis-championships-session-23-tickets-thu-sep-10-2026-arthur-ashe-stadium",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-007",
+  "section": "335",
+  "row": "S",
+  "seats": null,
+  "allInPricePerTicket": 349.9,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketmaster",
+  "sourceListingId": "fx-ticketmaster-008",
+  "section": "302",
+  "row": "H",
+  "seats": [
+   "13",
+   "14"
+  ],
+  "allInPricePerTicket": 331.5,
+  "listingUrl": "https://www.ticketmaster.com/womens-singles-semifinals-flushing-new-york-09-10-2026/event/1D00646DB471672F",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "stubhub",
+  "sourceListingId": "fx-stubhub-007",
+  "section": "308",
+  "row": "T",
+  "seats": null,
+  "allInPricePerTicket": 316,
+  "listingUrl": "https://www.stubhub.com/us-open-tennis-flushing-tickets-9-10-2026/event/159351469/?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "seatgeek",
+  "sourceListingId": "fx-seatgeek-007",
+  "section": "314",
+  "row": "G",
+  "seats": [
+   "5",
+   "6"
+  ],
+  "allInPricePerTicket": 302.75,
+  "listingUrl": "https://seatgeek.com/us-open-tennis-tickets/tennis/2026-09-10-7-pm/17807645?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketliquidator",
+  "sourceListingId": "fx-ticketliquidator-005",
+  "section": "320",
+  "row": "L",
+  "seats": null,
+  "allInPricePerTicket": 291.25,
+  "listingUrl": "https://www.ticketliquidator.com/tickets/7396871/2026-us-open-tennis-championships-session-23-tickets-thu-sep-10-2026-arthur-ashe-stadium",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-008",
+  "section": "326",
+  "row": "Q",
+  "seats": null,
+  "allInPricePerTicket": 288.92,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "stubhub",
+  "sourceListingId": "fx-stubhub-008",
+  "section": "332",
+  "row": "U",
+  "seats": [
+   "11",
+   "12"
+  ],
+  "allInPricePerTicket": 284.5,
+  "listingUrl": "https://www.stubhub.com/us-open-tennis-flushing-tickets-9-10-2026/event/159351469/?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "seatgeek",
+  "sourceListingId": "fx-seatgeek-008",
+  "section": "338",
+  "row": "F",
+  "seats": null,
+  "allInPricePerTicket": 281,
+  "listingUrl": "https://seatgeek.com/us-open-tennis-tickets/tennis/2026-09-10-7-pm/17807645?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketmaster",
+  "sourceListingId": "fx-ticketmaster-009",
+  "section": "318",
+  "row": "N",
+  "seats": [
+   "13",
+   "14"
+  ],
+  "allInPricePerTicket": 279.6,
+  "listingUrl": "https://www.ticketmaster.com/womens-singles-semifinals-flushing-new-york-09-10-2026/event/1D00646DB471672F",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketliquidator",
+  "sourceListingId": "fx-ticketliquidator-006",
+  "section": "307",
+  "row": "P",
+  "seats": null,
+  "allInPricePerTicket": 276.4,
+  "listingUrl": "https://www.ticketliquidator.com/tickets/7396871/2026-us-open-tennis-championships-session-23-tickets-thu-sep-10-2026-arthur-ashe-stadium",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-009",
+  "section": "340",
+  "row": "K",
+  "seats": null,
+  "allInPricePerTicket": 272,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "ticketliquidator",
+  "sourceListingId": "fx-ticketliquidator-007",
+  "section": "313",
+  "row": "H",
+  "seats": null,
+  "allInPricePerTicket": 358,
+  "listingUrl": "https://www.ticketliquidator.com/tickets/7396871/2026-us-open-tennis-championships-session-23-tickets-thu-sep-10-2026-arthur-ashe-stadium",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ },
+ {
+  "source": "vividseats",
+  "sourceListingId": "fx-vividseats-010",
+  "section": "313",
+  "row": "L",
+  "seats": null,
+  "allInPricePerTicket": 353.2,
+  "listingUrl": "https://www.vividseats.com/us-open-tennis-tickets-arthur-ashe-stadium-9-10-2026--sports-tennis/production/5990417?quantity=2",
+  "capturedAt": "2026-09-07T17:40:00.000Z"
+ }
+]
